@@ -1,6 +1,6 @@
-# Strogonoff de camarão
+# STROGONOFF DE CAMARÃO
 
-## Ingredientes
+## INGREDIENTES
 
  - 500 g de camarão cinza ou rosa
  - 1 lata de creme de leite
@@ -11,7 +11,7 @@
  - 1 pitada de orégano
  - Sal e pimenta do reino a gosto
 
-## Modo de preparo
+## MODO DE PREPARO
 
 1. Limpe os camarões tirando a cabeça e a tripa.
 2. Coloque em uma panela a manteiga.
@@ -23,7 +23,7 @@
 8. Dica: Caso queira o molho do strogonoff mais ralo, usar o soro do creme de leite na receita, ou acrescentar 1/4 de copo de leite.
 9. Servir com arroz branco e bata, pode ser palha, palito ou chips.
 
-    ##  _bon appétit!_
+    ##  *bon appétit!*
  
        
 
